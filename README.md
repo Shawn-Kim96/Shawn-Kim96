@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shawn
+- 👀 I’m interested in timeseries ML, DL with semi/self supervised learning
+- 🌱 I’m currently learning high performance Python, timeseries DL methods
+- 📫 How to reach me email: dun03191@gmail.com
